@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849504683643",
+    "firebase_url": "https://basecorreccion.firebaseio.com",
+    "project_id": "basecorreccion",
+    "storage_bucket": "basecorreccion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849504683643:android:e749ed9e2e44d908ca84de",
+        "android_client_info": {
+          "package_name": "com.example.prueba_correccion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849504683643-g0d1agi03ithr1pmjku02u8jrkhi7pr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZHZJbZlICs-e418HbHR245FcTGsyCArQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849504683643-g0d1agi03ithr1pmjku02u8jrkhi7pr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
